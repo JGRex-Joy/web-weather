@@ -19,6 +19,7 @@ body{
     justify-content: center;
     min-height: 100vh;
     font-family: "Poppins";
+    background: #99D2F4;
 }
 
 .card{
@@ -26,7 +27,7 @@ body{
     flex-shrink: 1;
     flex-grow: 0;
     margin: 0px 15px;
-    background: linear-gradient(180deg,#62b8f6 0%, #2c79c1 100%);
+    background: #557DE5;
     color: #fff;
     border-radius: 20px;
     padding: 40px 20px;
