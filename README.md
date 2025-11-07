@@ -43,15 +43,13 @@ cd weather-app
 https://home.openweathermap.org/api_keys
 
 Замените значение переменной apiKey в script.js:
-
-js
-Copy code
 const apiKey = 'ВАШ_API_KEY';
+
+
 📂 Структура проекта
-bash
-Copy code
-weather-app/
+```weather-app/
 │── index.html      # Основная разметка
 │── styles.css      # Стили
 │── script.js       # Логика приложения
 └── README.md       # Описание проекта
+
