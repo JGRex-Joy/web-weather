@@ -28,14 +28,9 @@
 ## 🔧 Настройка и запуск
 
 1. Склонировать проект:
-   ```bash
-   git clone https://github.com/your-username/weather-app.git
-Перейти в папку проекта:
-
-bash
-Copy code
-cd weather-app
-Открыть index.html в браузере.
+   ```git clone https://github.com/your-username/weather-app.git```
+2. Перейти в папку проекта: cd weather-app
+3. Открыть index.html в браузере.
 
 🔑 API Key
 Приложение использует OpenWeatherMap API.
@@ -52,4 +47,5 @@ const apiKey = 'ВАШ_API_KEY';
 │── styles.css      # Стили
 │── script.js       # Логика приложения
 └── README.md       # Описание проекта
+
 
