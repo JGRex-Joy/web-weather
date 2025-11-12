@@ -1,3 +1,6 @@
+# Figma макет
+https://www.figma.com/design/xnna3LoHyxZ1dMTuzfCD87/web?node-id=0-1&p=f&t=2xxvB8yAMZcciSiV-0
+
 # Weather App
 
 Простое и удобное приложение для просмотра текущей погоды по названию города.  
@@ -40,6 +43,7 @@
 │── script.js       # Логика приложения
 └── README.md       # Описание проекта
 ```
+
 
 
 
